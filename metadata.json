@@ -1,0 +1,5 @@
+{
+  "name": "React Markdown AI CMS",
+  "description": "A comprehensive, client-side Content Management System featuring Markdown-driven routing, dynamic component registration, role-based authentication, and Gemini AI content generation. Designed to replicate advanced server-side CMS features in a modern React SPA.",
+  "requestFramePermissions": []
+}
